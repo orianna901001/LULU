@@ -1,0 +1,5 @@
+<form action=login.php method=post>
+<input type=text name=id placeholder="請輸入帳號"><br>
+<input type=password name=pw placeholder="請輸入密碼"><br>
+<input type=submit value=登入>
+</form>
